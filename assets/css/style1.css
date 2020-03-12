@@ -1,0 +1,13 @@
+body{
+    background-image: url('../image/lady.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+  
+}
+.top-buffer { margin-top:100px; }
+a{
+    color: black;
+}
+div{
+    opacity: 0.9;
+}
