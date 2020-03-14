@@ -10,3 +10,8 @@ body,html{
    a{
     color: black;
 }
+.card {
+    background-color: rgba(50,0,0, 0.2);
+    color: aliceblue;
+}
+.top-buffer { margin-top:100px; }
