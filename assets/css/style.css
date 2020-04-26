@@ -27,3 +27,29 @@
 a{
     color: white;
 }
+h3{
+    color: burlywood;
+    animation: animated-text 4s steps(39,end) 1s 1 normal both,
+               animated-cursor 600ms steps(39,end) infinite;
+  }
+  
+  @keyframes animated-text{
+    from{width: 50%;}
+    to{width: 100%;}
+  }
+  
+ 
+  footer{
+   
+    
+    display:flex;
+    justify-content: center;
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+ 
+    
+      
+  }
+  
