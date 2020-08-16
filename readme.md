@@ -1,3 +1,5 @@
 # React Portfolio
+A react, component-based portfolio. The portfolio I have crafted highlights projects I have created and contributed to along with further information regarding my professional background
 
-A simple portfolio website made in react. 
+# Technologies Used
+React, Javascript, CSS
