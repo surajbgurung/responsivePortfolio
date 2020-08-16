@@ -23,7 +23,7 @@ export const projects = {
             DeployedLink: "https://surajbgurung.github.io/homework3/",
             GitHub: "https://surajbgurung.github.io/weather-api/"
         }, {
-            name: "Project 5:Weather Dashboard<",
+            name: "Project 5:Weather Dashboard",
             description: "it can used to search the weather of any place with five day forecast",
             DeployedLink: "https://surajbgurung.github.io/weather-api/",
             GitHub: "https://github.com/surajbgurung/weather-api"
