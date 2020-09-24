@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/responsivePortfolio/static/css/main.4660ce5f.chunk.css",
-    "main.js": "/responsivePortfolio/static/js/main.ec043f3b.chunk.js",
-    "main.js.map": "/responsivePortfolio/static/js/main.ec043f3b.chunk.js.map",
+    "main.css": "/responsivePortfolio/static/css/main.3c57e3a6.chunk.css",
+    "main.js": "/responsivePortfolio/static/js/main.7ade5a6c.chunk.js",
+    "main.js.map": "/responsivePortfolio/static/js/main.7ade5a6c.chunk.js.map",
     "runtime-main.js": "/responsivePortfolio/static/js/runtime-main.63631d60.js",
     "runtime-main.js.map": "/responsivePortfolio/static/js/runtime-main.63631d60.js.map",
-    "static/js/2.d34c26f0.chunk.js": "/responsivePortfolio/static/js/2.d34c26f0.chunk.js",
-    "static/js/2.d34c26f0.chunk.js.map": "/responsivePortfolio/static/js/2.d34c26f0.chunk.js.map",
+    "static/js/2.ce6eb10c.chunk.js": "/responsivePortfolio/static/js/2.ce6eb10c.chunk.js",
+    "static/js/2.ce6eb10c.chunk.js.map": "/responsivePortfolio/static/js/2.ce6eb10c.chunk.js.map",
     "index.html": "/responsivePortfolio/index.html",
-    "precache-manifest.12a452c89f5b0c61893f514cb0a0847c.js": "/responsivePortfolio/precache-manifest.12a452c89f5b0c61893f514cb0a0847c.js",
+    "precache-manifest.ef0de4669592e6a40bed3f7a1520b311.js": "/responsivePortfolio/precache-manifest.ef0de4669592e6a40bed3f7a1520b311.js",
     "service-worker.js": "/responsivePortfolio/service-worker.js",
-    "static/css/main.4660ce5f.chunk.css.map": "/responsivePortfolio/static/css/main.4660ce5f.chunk.css.map",
-    "static/js/2.d34c26f0.chunk.js.LICENSE.txt": "/responsivePortfolio/static/js/2.d34c26f0.chunk.js.LICENSE.txt",
+    "static/css/main.3c57e3a6.chunk.css.map": "/responsivePortfolio/static/css/main.3c57e3a6.chunk.css.map",
+    "static/js/2.ce6eb10c.chunk.js.LICENSE.txt": "/responsivePortfolio/static/js/2.ce6eb10c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/responsivePortfolio/static/media/bkgd1.ef2c76f2.png",
+    "static/media/booksearch.png": "/responsivePortfolio/static/media/booksearch.26389fac.png",
+    "static/media/employee.png": "/responsivePortfolio/static/media/employee.41dc8c7b.png",
+    "static/media/getmet.png": "/responsivePortfolio/static/media/getmet.a5d24924.png",
     "static/media/github1.png": "/responsivePortfolio/static/media/github1.dc967186.png",
     "static/media/insta.png": "/responsivePortfolio/static/media/insta.097b7749.png",
     "static/media/mail.png": "/responsivePortfolio/static/media/mail.65dac773.png",
+    "static/media/mv.png": "/responsivePortfolio/static/media/mv.f9f6ffcd.png",
+    "static/media/portfolio.png": "/responsivePortfolio/static/media/portfolio.d40e8021.png",
     "static/media/suraj.JPEG": "/responsivePortfolio/static/media/suraj.254907e7.JPEG",
-    "static/media/surajresume.pdf": "/responsivePortfolio/static/media/surajresume.3e839ca2.pdf"
+    "static/media/surajresume.pdf": "/responsivePortfolio/static/media/surajresume.6863943b.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.63631d60.js",
-    "static/js/2.d34c26f0.chunk.js",
-    "static/css/main.4660ce5f.chunk.css",
-    "static/js/main.ec043f3b.chunk.js"
+    "static/js/2.ce6eb10c.chunk.js",
+    "static/css/main.3c57e3a6.chunk.css",
+    "static/js/main.7ade5a6c.chunk.js"
   ]
 }
